@@ -14,6 +14,16 @@
 		F70158BE294A08A200FDB6E5 /* WorkLifeBalance_TheGuideTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70158BD294A08A200FDB6E5 /* WorkLifeBalance_TheGuideTests.swift */; };
 		F70158C8294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70158C7294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITests.swift */; };
 		F70158CA294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70158C9294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITestsLaunchTests.swift */; };
+		F7335F0A297962F6005B4BA8 /* InstructionsView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7335F09297962F6005B4BA8 /* InstructionsView2.swift */; };
+		F7335F0C2979FCBE005B4BA8 /* InstructionsView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7335F0B2979FCBE005B4BA8 /* InstructionsView3.swift */; };
+		F7335F12297C0D28005B4BA8 /* InstructionsView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7335F11297C0D28005B4BA8 /* InstructionsView4.swift */; };
+		F75C01E2297E831700CCCA74 /* PersonaSelectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75C01E1297E831700CCCA74 /* PersonaSelectView.swift */; };
+		F75C01E4297E8CD600CCCA74 /* PersonaPageViewLloyd.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75C01E3297E8CD600CCCA74 /* PersonaPageViewLloyd.swift */; };
+		F75C01E6297F173500CCCA74 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75C01E5297F173500CCCA74 /* PageView.swift */; };
+		F75C01E8297F504300CCCA74 /* PersonaPageViewAaron.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75C01E7297F504300CCCA74 /* PersonaPageViewAaron.swift */; };
+		F75C01EA297F54A300CCCA74 /* PersonaViewPageBeth.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75C01E9297F54A300CCCA74 /* PersonaViewPageBeth.swift */; };
+		F75C01EC297F54E100CCCA74 /* PersonaPageViewOlivia.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75C01EB297F54E100CCCA74 /* PersonaPageViewOlivia.swift */; };
+		F7ACC35B2966F79E00CEA0BD /* InstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7ACC35A2966F79E00CEA0BD /* InstructionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +54,17 @@
 		F70158C3294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkLifeBalance_TheGuideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F70158C7294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkLifeBalance_TheGuideUITests.swift; sourceTree = "<group>"; };
 		F70158C9294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkLifeBalance_TheGuideUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F7335F09297962F6005B4BA8 /* InstructionsView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsView2.swift; sourceTree = "<group>"; };
+		F7335F0B2979FCBE005B4BA8 /* InstructionsView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsView3.swift; sourceTree = "<group>"; };
+		F7335F11297C0D28005B4BA8 /* InstructionsView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsView4.swift; sourceTree = "<group>"; };
+		F75C01E1297E831700CCCA74 /* PersonaSelectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaSelectView.swift; sourceTree = "<group>"; };
+		F75C01E3297E8CD600CCCA74 /* PersonaPageViewLloyd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaPageViewLloyd.swift; sourceTree = "<group>"; };
+		F75C01E5297F173500CCCA74 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		F75C01E7297F504300CCCA74 /* PersonaPageViewAaron.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaPageViewAaron.swift; sourceTree = "<group>"; };
+		F75C01E9297F54A300CCCA74 /* PersonaViewPageBeth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaViewPageBeth.swift; sourceTree = "<group>"; };
+		F75C01EB297F54E100CCCA74 /* PersonaPageViewOlivia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaPageViewOlivia.swift; sourceTree = "<group>"; };
+		F7ACC35A2966F79E00CEA0BD /* InstructionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsView.swift; sourceTree = "<group>"; };
+		F7E73C6C2988160C00827792 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +95,7 @@
 		F70158A0294A089E00FDB6E5 = {
 			isa = PBXGroup;
 			children = (
+				F7E73C6C2988160C00827792 /* README.md */,
 				F70158AB294A089F00FDB6E5 /* WorkLifeBalance_TheGuide */,
 				F70158BC294A08A200FDB6E5 /* WorkLifeBalance_TheGuideTests */,
 				F70158C6294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITests */,
@@ -95,7 +117,7 @@
 			isa = PBXGroup;
 			children = (
 				F70158AC294A089F00FDB6E5 /* WorkLifeBalance_TheGuideApp.swift */,
-				F70158AE294A089F00FDB6E5 /* ContentView.swift */,
+				F7ACC35C2966FE7E00CEA0BD /* Views */,
 				F70158B0294A08A100FDB6E5 /* Assets.xcassets */,
 				F70158B2294A08A100FDB6E5 /* Preview Content */,
 			);
@@ -125,6 +147,24 @@
 				F70158C9294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITestsLaunchTests.swift */,
 			);
 			path = WorkLifeBalance_TheGuideUITests;
+			sourceTree = "<group>";
+		};
+		F7ACC35C2966FE7E00CEA0BD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F70158AE294A089F00FDB6E5 /* ContentView.swift */,
+				F75C01E5297F173500CCCA74 /* PageView.swift */,
+				F7ACC35A2966F79E00CEA0BD /* InstructionsView.swift */,
+				F7335F09297962F6005B4BA8 /* InstructionsView2.swift */,
+				F7335F0B2979FCBE005B4BA8 /* InstructionsView3.swift */,
+				F7335F11297C0D28005B4BA8 /* InstructionsView4.swift */,
+				F75C01E1297E831700CCCA74 /* PersonaSelectView.swift */,
+				F75C01E3297E8CD600CCCA74 /* PersonaPageViewLloyd.swift */,
+				F75C01E7297F504300CCCA74 /* PersonaPageViewAaron.swift */,
+				F75C01E9297F54A300CCCA74 /* PersonaViewPageBeth.swift */,
+				F75C01EB297F54E100CCCA74 /* PersonaPageViewOlivia.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +297,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F75C01E4297E8CD600CCCA74 /* PersonaPageViewLloyd.swift in Sources */,
+				F7335F0C2979FCBE005B4BA8 /* InstructionsView3.swift in Sources */,
+				F7335F0A297962F6005B4BA8 /* InstructionsView2.swift in Sources */,
+				F7335F12297C0D28005B4BA8 /* InstructionsView4.swift in Sources */,
+				F75C01E2297E831700CCCA74 /* PersonaSelectView.swift in Sources */,
 				F70158AF294A089F00FDB6E5 /* ContentView.swift in Sources */,
+				F75C01E8297F504300CCCA74 /* PersonaPageViewAaron.swift in Sources */,
+				F75C01EA297F54A300CCCA74 /* PersonaViewPageBeth.swift in Sources */,
+				F7ACC35B2966F79E00CEA0BD /* InstructionsView.swift in Sources */,
+				F75C01E6297F173500CCCA74 /* PageView.swift in Sources */,
+				F75C01EC297F54E100CCCA74 /* PersonaPageViewOlivia.swift in Sources */,
 				F70158AD294A089F00FDB6E5 /* WorkLifeBalance_TheGuideApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,13 +462,16 @@
 		F70158CE294A08A200FDB6E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = Appicon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WorkLifeBalance_TheGuide/Preview Content\"";
+				DEVELOPMENT_TEAM = 5756L92AJW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Work.Life.Balance;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -440,13 +493,16 @@
 		F70158CF294A08A200FDB6E5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = Appicon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WorkLifeBalance_TheGuide/Preview Content\"";
+				DEVELOPMENT_TEAM = 5756L92AJW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Work.Life.Balance;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
