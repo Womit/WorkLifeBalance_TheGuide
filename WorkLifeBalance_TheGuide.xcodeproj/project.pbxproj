@@ -64,7 +64,6 @@
 		F75C01E9297F54A300CCCA74 /* PersonaViewPageBeth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaViewPageBeth.swift; sourceTree = "<group>"; };
 		F75C01EB297F54E100CCCA74 /* PersonaPageViewOlivia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaPageViewOlivia.swift; sourceTree = "<group>"; };
 		F7ACC35A2966F79E00CEA0BD /* InstructionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsView.swift; sourceTree = "<group>"; };
-		F7E73C6C2988160C00827792 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +94,6 @@
 		F70158A0294A089E00FDB6E5 = {
 			isa = PBXGroup;
 			children = (
-				F7E73C6C2988160C00827792 /* README.md */,
 				F70158AB294A089F00FDB6E5 /* WorkLifeBalance_TheGuide */,
 				F70158BC294A08A200FDB6E5 /* WorkLifeBalance_TheGuideTests */,
 				F70158C6294A08A200FDB6E5 /* WorkLifeBalance_TheGuideUITests */,
